@@ -10,7 +10,7 @@
 #import "MovableView.h"
 
 @interface ViewController ()
-@property (retain, nonatomic) IBOutlet UIView *subView;
+@property (retain, nonatomic) UIView *subView;
 @end
 
 @implementation ViewController
